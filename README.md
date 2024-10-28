@@ -6,7 +6,7 @@
 ### 🌱 관심사
 - **백엔드 개발:** Kotlin, Spring Boot, JPA 를 주 기술 셋으로 개발 중
 - **안드로이드 개발:** Jetpack Compose를 활용한 Android 개인 프로젝트 진행 중
-- **머신러닝 & LLM:** 대규모 언어 모델(LLM)과 Ollama 등 관련 기술 학습 중
-- **사이드 프로젝트:** Python과 FastAPI로 개인 프로젝트 진행 중
+- **LLM:** 대규모 언어 모델(LLM)과 Ollama 등 관련 기술 학습 중
+- **머신러닝:** Python과 FastAPI로 개인 프로젝트 진행 중
 
 ---
